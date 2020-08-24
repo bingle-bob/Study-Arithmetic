@@ -11,7 +11,6 @@ package com.bob.study;
 public class AlgorithmProblemDome1 {
 
     public static void main(String[] args) {
-      //
-        //
+        System.out.println();
     }
 }
